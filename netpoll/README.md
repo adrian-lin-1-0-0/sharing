@@ -73,9 +73,11 @@ Go 原生的 `net` 是使用 `EPOLLET` (Edge Triggered) 的方式來處理事件
 
 ## Summary
 
-Single Reactor
+## Single Reactor
 
 ![alt text](imgs/image-35.png)
+
+## [The edge-triggered misunderstanding](https://lwn.net/Articles/864947/)
 
 
 # Multi-Reactors 異步網路模型
